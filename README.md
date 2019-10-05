@@ -68,4 +68,3 @@ and now using the same repository for Hacktoberfest 2019!
 | Shelly Sharma | https://github.com/priyaR546 |
 | Maris Klava | https://github.com/marksklava |
 | Pratyay Banerjee | https://github.com/Neilblaze |
-
