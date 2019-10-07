@@ -55,6 +55,8 @@ and now using the same repository for Hacktoberfest 2019!
 | Frank Carlone | https://github.com/fcarlone |
 | Faaiz Ali Khan | https://github.com/goprime10 |
 | Matt Rudin | https://github.com/mattrudin |
+
+| Randil Tennakoon | https://github.com/randiltennakoon |
 | Serhii Makhov | https://github.com/deadid |
 | Grace Witter | https://github.com/gracewitter |
 | Parinya Onsuwan| https://github.com/parinz1234 |
