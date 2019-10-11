@@ -1,0 +1,1 @@
+console.log("I love using math and language to solve problems. This is why I love using Javascript!")
