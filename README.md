@@ -45,6 +45,7 @@ and now using the same repository for Hacktoberfest 2019!
 
 |     Name      |             Github               |
 |---------------|----------------------------------|
+| Eddie Fisher | https://github.com/frogo123 |
 | Karen Garcia | https://github.com/saykaren |
 | Justen Phelps | https://github.com/justenbphelps |
 | Stephen Pritchard | https://github.com/stevopritchard |
