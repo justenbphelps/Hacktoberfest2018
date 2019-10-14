@@ -70,3 +70,4 @@ and now using the same repository for Hacktoberfest 2019!
 | Pulkit Khagta | https://github.com/PulkitKhagta |
 | Akshita Sah | https://github.com/akshi0409 |
 | Hannah Guo | https://github.com/HannahGuo |
+| Jonah Waschek| https://github.com/voz977 |
