@@ -1,0 +1,7 @@
+.my-name:after {
+    content: "inhumba";
+    color: #c55;
+    display: inline-block;
+    font-size: .5em;
+    padding-left: 10px;
+}
