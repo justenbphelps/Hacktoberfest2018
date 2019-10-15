@@ -26,6 +26,8 @@ and now using the same repository for Hacktoberfest 2019!
 - Navigate into your created branch `git checkout NEW_BRANCH_NAME`
 - Add your program *your-name.language* into the contributions folder
 - **Add your name to the README.md file as a contributor**
+- Add changes using command - git add .
+- Commit changes using git command - git commit -m "My First PR"
 - Push your branch to your forked repo `git push origin NEW_BRANCH_NAME`
 - Submit your Pull Request!
 
@@ -70,3 +72,4 @@ and now using the same repository for Hacktoberfest 2019!
 | Pulkit Khagta | https://github.com/PulkitKhagta |
 | Akshita Sah | https://github.com/akshi0409 |
 | Hannah Guo | https://github.com/HannahGuo |
+| ch1771dr0b0 | https://github.com/ch1771dr0b0 |
